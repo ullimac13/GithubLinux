@@ -1,0 +1,3 @@
+ una plataforma de softwarelibre para configurar y administrar ordenadores es un multi nodo de ejecuciones de tareas ad hoc y administrador deconfiguraciones categorizado como una herramienta de orquestacion y fue programado en python, ruby, powershell
+
+preparar la infrestructura subyacente del entorno los host virtualizados y los hipervisores esto hace un ansible
