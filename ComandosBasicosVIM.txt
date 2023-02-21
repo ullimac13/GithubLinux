@@ -1,0 +1,23 @@
+ESC	Abandonar el modo de inclusión de texto para volver
+Cntl-F	Avanzar una pagina hacia adelante
+Cntl-B	Avanzar una pagina hacia atrás
+Cntl-L	Refrescar la pantalla
+G	Cursor al final del fichero
+1G	Cursor al principio del fichero
+$	Cursor al final de la linea
+0 (cero)	Cursor al principio de la linea
+a	Añadir texto a continuacion del cursor [TEXTO]
+i	Insertar texto en la posicion del cursor [TEXTO]
+A	Añadir texto al final de la linea [TEXTO]
+I	Insertar texto al principio de la linea [TEXTO]
+o	Añadir una linea debajo de la del cursor [TEXTO]
+O	Añadir una linea encima de la del cursor [TEXTO]
+u	Deshacer el último cambio realizado
+:red	Rehace los cambios deshechos con ”u” o ”:u”
+x	Borrar un caracter (y ponerlo automaticamente en el ALMACEN
+D	Borrar el resto de la linea (a la derecha del cursor)
+dw	Borrar una palabra (hasta el primer blanco a la dcha. del cursor)
+dd	Borrar la linea entera
+8x	Borrar 8 caracteres
+2dw	Borrar 2 palabras
+7dd	Borrar 7 lineas
